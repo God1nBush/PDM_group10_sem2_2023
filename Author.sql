@@ -1,0 +1,22 @@
+USE ArticleSchema
+INSERT INTO Author (AuthorID, Fullname, OrganizationName, Email) VALUES
+('Au01', 'Ileana Streinu', 'Smith College', 'ileana.streinu@example.com'),
+('Au02', 'Louis Theran', 'University of North Texas', 'louis.theran@example.com'),
+('Au03', 'Hongjun Pan', 'University of Colorado Boulder', 'hongjun.pan@example.com'),
+('Au04', 'David Callan', 'University of Oxford', 'david.callan@example.com'),
+('Au05', 'Wael Abu-Shammala', 'MIT', 'wael.abushammala@example.com'),
+('Au06', 'Y. H. Pong', 'NUS', 'y.h.pong@example.com'),
+('Au07', 'Alejandro Corichi', 'Stanford University', 'alejandro.corichi@example.com'),
+('Au08', 'Damian C. Swift', 'Harvard University', 'damian.swift@example.com'),
+('Au09', 'Paul Harvey', 'University of Cambridge', 'paul.harvey@example.com'),
+('Au10', 'Sergei Ovchinnikov', 'Imperial College London', 'sergei.ovchinnikov@example.com'),
+('Au11', 'Clifton Cunningham', 'University of Chicago', 'clifton.cunningham@example.com'),
+('Au12', 'Dohoon Choi', 'Princeton University', 'dohoon.choi@example.com'),
+('Au13', 'Dohoon Choi and YoungJu Choie', 'Yale University', 'dohoon.youngju@example.com'),
+('Au14', 'Koichi Fujii', 'California Institute of Technology', 'koichi.fujii@example.com'),
+('Au15', 'Christian Stahn', 'University of Pennsylvania', 'christian.stahn@example.com'),
+('Au16', 'Chao-Hsi Chang', 'University of California, Berkeley', 'chaohsi.chang@example.com'),
+('Au17', 'Nceba Mhlahlo', 'University of Michigan', 'nceba.mhlahlo@example.com'),
+('Au18', 'Andreas Gustavsson', 'University of Toronto', 'andreas.gustavsson@example.com'),
+('Au19', 'Norio Konno', 'University of Washington', 'norio.konno@example.com'),
+('Au20', 'B. Aubert', 'University of Washington', 'b.aubert@example.com');

@@ -1,0 +1,21 @@
+USE ArticleSchema
+INSERT INTO Organization (Name, Address, PhoneNumber) VALUES
+('Smith College', '123 Elm Street, Northampton, MA, 01063, USA', '+1 (413) 585-2000'),
+('University of North Texas', '1155 Union Circle #311277, Denton, TX 76203, United States', '+1 940-565-2000'),
+('University of Colorado Boulder', '1669 Euclid Ave, Boulder, CO 80309, United States', '+1 303-492-1411'),
+('University of Oxford', '1 High St, Oxford, UK', '+44 1865 270000'),
+('MIT', '77 Massachusetts Ave, Cambridge, MA, USA', '+1 617-253-1000'),
+('NUS', '21 Lower Kent Ridge Rd, Singapore', '+65 6516 6666'),
+('Stanford University', '450 Serra Mall, Stanford, CA, USA', '+1 650-723-2300'),
+('Harvard University', 'Massachusetts Hall, Cambridge, MA, USA', '+1 617-495-1000'),
+('University of Cambridge', 'The Old Schools, Trinity Ln, Cambridge, UK', '+44 1223 337733'),
+('Imperial College London', 'Kensington, London, UK', '+44 20 7589 5111'),
+('University of Chicago', '5801 S Ellis Ave, Chicago, IL, USA', '+1 773-702-1234'),
+('Princeton University', 'Princeton, NJ, USA', '+1 609-258-3000'),
+('Yale University', 'New Haven, CT, USA', '+1 203-432-4771'),
+('California Institute of Technology', '1200 E California Blvd, Pasadena, CA, USA', '+1 626-395-6811'),
+('University of Pennsylvania', 'Philadelphia, PA, USA', '+1 215-898-5000'),
+('University of California, Berkeley', 'Berkeley, CA, USA', '+1 510-642-6000'),
+('University of Michigan', '500 S State St, Ann Arbor, MI, USA', '+1 734-764-1817'),
+('University of Toronto', '27 King’s College Cir, Toronto, ON, Canada', '+1 416-978-2011'),
+('University of Washington', 'Seattle, WA, USA', '+1 206-543-2100');
